@@ -2,7 +2,7 @@
 #### Full-stack development with Django & React
 I'm a full-stack web developer. I build web application with Django and React.
 
-Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React / Redux / HTML / CSS / Java / Android App Development / NGINX /  Deep Learning / TensorFlow 
+Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React / Redux / HTML / CSS / Java / Android App Development / NGINX /  Deep Learning / TensorFlow / Shell Scripting /
 
 - 🔭 I’m currently looking for an internship 
 - 🌱 I’m currently learning Advanced Data Structure & Algorithm 
