@@ -4,7 +4,7 @@ I'm a full-stack web developer. I build web application with Django and React.
 
 ![I am Amal Babu](https://github.com/amal-babu-git/amal-babu-git/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(3).png)
 
-Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React / Redux / HTML / CSS / Java / Android App Development / NGINX /  Deep Learning / TensorFlow / Shell Scripting /
+Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React / Redux / HTML / CSS / Java / Android App Development / NGINX /  Deep Learning / TensorFlow / Shell Scripting / C# / ASP.NET / PHP / C / C++ / R / SAS /
 
 - 🔭 I’m currently looking for an internship 
 - 🌱 I’m currently learning Advanced Data Structure & Algorithm 
