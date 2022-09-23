@@ -2,6 +2,8 @@
 #### Full-stack development with Django & React
 I'm a full-stack web developer. I build web application with Django and React.
 
+![I am GitHub Readme Generator's creator](https://github.com/amal-babu-git/amal-babu-git/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(3).png)
+
 Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React / Redux / HTML / CSS / Java / Android App Development / NGINX /  Deep Learning / TensorFlow / Shell Scripting /
 
 - 🔭 I’m currently looking for an internship 
