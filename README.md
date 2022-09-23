@@ -13,7 +13,7 @@ Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React 
 ### Main Work - OnShop e-commerce web application
 [<img src="https://github.com/amal-babu-git/amal-babu-git/blob/main/onshop.png" width=556>](https://github.com/amal-babu-git/onshop-backend-django)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amal-babu-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amalbabu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amalbabu1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://onshop.amalbabudev.in)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amal-babu-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amalbabu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amalbabudev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://onshop.amalbabudev.in)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amal-babu-git)](https://github.com/ryo-ma/github-profile-trophy)
 
