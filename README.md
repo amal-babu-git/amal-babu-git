@@ -6,8 +6,8 @@ I'm a full-stack web developer. I build web application with Django and React.
 
 Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React / Redux / HTML / CSS / Java / Android App Development / NGINX /  Deep Learning / TensorFlow / Shell Scripting / C# / ASP.NET / PHP / C / C++ / R / SAS /
 
-- 🔭 I’m currently looking for an internship 
-- 🌱 I’m currently learning Advanced Data Structure & Algorithm 
+![Profile views](https://gpvc.arturio.dev/amal-babu-git)  
+
 - 📫 How to reach me: amalbabu1200@gmail.com 
 
 ### Main Work - OnShop e-commerce web application
@@ -15,7 +15,7 @@ Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amal-babu-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/amalbabu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amalbabudev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://onshop.amalbabudev.in)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amal-babu-git)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-babu-git)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,4 +27,5 @@ Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amal-babu-git)  
 
-![Profile views](https://gpvc.arturio.dev/amal-babu-git)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amal-babu-git)](https://github.com/ryo-ma/github-profile-trophy)
