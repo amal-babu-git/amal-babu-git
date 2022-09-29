@@ -1,6 +1,6 @@
 ### Hi there 👋, Amal Babu
 #### Full-stack development with Django & React
-I'm a full-stack web developer. I build web application with Django and React.
+I'm a full-stack web developer | Django and React.
 
 ![I am Amal Babu](https://github.com/amal-babu-git/amal-babu-git/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(3).png)
 
