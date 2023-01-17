@@ -1,6 +1,6 @@
 ### Hi there 👋, Amal Babu
 ###  Machine Learning enthusiast
-#### Full-stack development with Django & React
+#### Full-stack developer with Django & React
 
 ![I am Amal Babu](https://github.com/amal-babu-git/amal-babu-git/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(3).png)
 
