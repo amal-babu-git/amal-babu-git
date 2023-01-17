@@ -2,7 +2,7 @@
 ###  Machine Learning enthusiast
 #### Full-stack developer with Django & React
 
-![I am Amal Babu](https://github.com/amal-babu-git/amal-babu-git/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(3).png)
+![I am Amal Babu](https://github.com/amal-babu-git/amal-babu-git/blob/5edd7c81bd0409f666a1d6439f6a5abd87ca0fa5/Clean%20Work%20Place%20LinkedIn%20Banner%20(7).png)
 
 Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React / Redux / HTML / CSS / Java / Android App Development / NGINX /  Deep Learning / TensorFlow / Shell Scripting / C# / ASP.NET / PHP / C / C++ / R / SAS / Bootstrap / Material UI / MD Bootstrap
 
