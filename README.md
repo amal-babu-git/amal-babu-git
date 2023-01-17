@@ -4,7 +4,17 @@
 
 ![I am Amal Babu](https://github.com/amal-babu-git/amal-babu-git/blob/5edd7c81bd0409f666a1d6439f6a5abd87ca0fa5/Clean%20Work%20Place%20LinkedIn%20Banner%20(7).png)
 
-Skills: Python / Django / REST / Docker / SQL / PostgreSQL / MySQL / JS / React / Redux / HTML / CSS / Java / Android App Development / NGINX /  Deep Learning / TensorFlow / Shell Scripting / C# / ASP.NET / PHP / C / C++ / R / SAS / Bootstrap / Material UI / MD Bootstrap
+## Skills:
+
+* #### FULL-STACK WEB DEVELOPER
+Python | Django | Django REST Framework | FastAPI | JavaScript | React.js | Redux.js | HTML | CSS | AWS EC2 deployment | Docker | Version Control
+
+* #### Mobile App Development
+Android App Development with Java | Android Studio
+
+* #### Programming Languages
+Python | Java | C | C++ 
+
 
 ![Profile views](https://gpvc.arturio.dev/amal-babu-git)  
 
