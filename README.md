@@ -7,13 +7,20 @@
 ## Skills:
 
 * #### FULL-STACK WEB DEVELOPER
-Python | Django | Django REST Framework | FastAPI | JavaScript | React.js | Redux.js | HTML | CSS | AWS EC2 deployment | Docker | Version Control
+       #### Backend
+             Python | Django | Django REST Framework | FastAPI | ASP.NET(C#)
+       #### Databases(RDBMS)
+             PostgreSQL | MySQL 
+       #### Frontend
+             JavaScript | React.js | Redux.js | HTML | CSS | Bootstrap | MDBootstrap 
+       
+       AWS EC2 deployment | Docker | Version Control 
 
 * #### Mobile App Development
-Android App Development with Java | Android Studio
+         Android App Development with Java | Android Studio
 
 * #### Programming Languages
-Python | Java | C | C++ 
+         Python | Java | C | C++ 
 
 
 ![Profile views](https://gpvc.arturio.dev/amal-babu-git)  
