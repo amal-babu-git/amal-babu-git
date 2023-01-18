@@ -12,7 +12,8 @@
      #### Databases(RDBMS)
              PostgreSQL | MySQL 
      #### Frontend
-             JavaScript | React.js | Redux.js | HTML | CSS | Bootstrap | MDBootstrap | AWS EC2 deployment | Docker | Version Control 
+             JavaScript | React.js | Redux.js | HTML | CSS | Bootstrap | MDBootstrap 
+     AWS EC2 deployment | Docker | Version Control 
        
 * #### Mobile App Development
               Android App Development with Java | Android Studio
