@@ -8,11 +8,11 @@
 
 * #### FULL-STACK WEB DEVELOPER
      #### Backend
-              Python | Django | Django REST Framework | FastAPI | ASP.NET(C#)
+              Python | Django | Django REST Framework 
      #### Databases(RDBMS)
              PostgreSQL | MySQL 
      #### Frontend
-             JavaScript | React.js | Redux.js | HTML | CSS | Bootstrap | MDBootstrap 
+             JavaScript | React.js | Redux.js | HTML | CSS | Bootstrap | MDBootstrap | Tailwind CSS 
      AWS EC2 deployment | Docker | Version Control 
        
 * #### Mobile App Development
