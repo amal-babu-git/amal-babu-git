@@ -19,7 +19,7 @@
               Android App Development with Java | Android Studio
 
 * #### Programming Languages 
-              Python | Java | C | C++ 
+              Python | Java | JavaScript | C | C++ 
 
 
 ![Profile views](https://gpvc.arturio.dev/amal-babu-git)  
