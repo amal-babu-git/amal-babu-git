@@ -28,18 +28,26 @@
 - **Email:** amalbabu1200@gmail.com
 
 ---
-
-## 🌟 Main Work - OnShop E-commerce Web Application
-[<img src="https://github.com/amal-babu-git/amal-babu-git/blob/main/onshop.png" width=556>](https://github.com/amal-babu-git/onshop-backend-django)
-
----
-
 ## 🔗 Connect with me
 <p align="left">
-    <a href="https://github.com/amal-babu-git"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'></a>
-    <a href="https://dev.to/amalbabu"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Dev.to' height='40'></a>
-    <a href="https://www.linkedin.com/in/amalbabudev/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'></a>
-    <a href="https://onshop.amalbabudev.in"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='OnShop' height='40'></a>
+    <a href="https://github.com/amal-babu-git" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" height="30">
+    </a>
+    <a href="https://dev.to/amalbabu" target="_blank">
+        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to" height="30">
+    </a>
+    <a href="https://www.linkedin.com/in/amalbabudev/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
+    </a>
+    <a href="https://onshop.amalbabudev.in" target="_blank">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="OnShop" height="30">
+    </a>
+    <a href="https://twitter.com/your-twitter-handle" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="30">
+    </a>
+    <a href="https://medium.com/@onlineamalbabu" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" height="30">
+    
 </p>
 
 ---
