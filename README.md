@@ -15,9 +15,6 @@
 - **Frontend:** JavaScript | React.js | Redux.js | HTML | CSS | Bootstrap | MDBootstrap | Tailwind CSS
 - **Other:** AWS EC2 deployment | Docker | Version Control
 
-### Mobile App Development
-- Android App Development with Java | Android Studio
-
 ### Programming Languages
 - Python | Java | JavaScript | C | C++
 
