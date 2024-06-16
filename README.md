@@ -25,7 +25,8 @@
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/amal-babu-git)
+![Profile view ](https://komarev.com/ghpvc/?username=amal-babu-git)
+
 
 ---
 
