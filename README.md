@@ -39,15 +39,9 @@
     <a href="https://www.linkedin.com/in/amalbabudev/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
     </a>
-    <a href="https://onshop.amalbabudev.in" target="_blank">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="OnShop" height="30">
-    </a>
-    <a href="https://twitter.com/your-twitter-handle" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="30">
-    </a>
     <a href="https://medium.com/@onlineamalbabu" target="_blank">
         <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" height="30">
-    
+    </a>
 </p>
 
 ---
