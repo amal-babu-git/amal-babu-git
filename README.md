@@ -1,5 +1,3 @@
----
-
 # Hi there 👋, I'm Amal Babu
 ### Machine Learning Enthusiast & Full-Stack Developer
 
@@ -25,8 +23,7 @@
 
 ---
 
-![Profile view ](https://komarev.com/ghpvc/?username=amal-babu-git)
-
+![Profile views](https://komarev.com/ghpvc/?username=amal-babu-git)
 
 ---
 
@@ -66,4 +63,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=amal-babu-git" alt="GitHub Trophy">
 </p>
 
+---
 
+Feel free to reach out for collaboration or any queries!
+
+---
