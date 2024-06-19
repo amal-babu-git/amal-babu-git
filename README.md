@@ -2,7 +2,7 @@
 ### Machine Learning Enthusiast & Full-Stack Developer
 
 <p align="center">
-    <img src="https://github.com/amal-babu-git/amal-babu-git/blob/5edd7c81bd0409f666a1d6439f6a5abd87ca0fa5/Clean%20Work%20Place%20LinkedIn%20Banner%20(7).png" alt="I am Amal Babu">
+    <img src="https://github.com/amal-babu-git/amal-babu-git/blob/main/1.png?raw=true" alt="I am Amal Babu">
 </p>
 
 ---
