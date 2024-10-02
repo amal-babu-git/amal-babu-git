@@ -5,6 +5,7 @@
     <img src="https://github.com/amal-babu-git/amal-babu-git/blob/main/banner.png?raw=true" alt="I am Amal Babu" width="80%">
 </p>
 
+<a href="https://app.daily.dev/amalbabu"><img src="https://api.daily.dev/devcards/v2/YGelFrH39CxcUfdiy1MC0.png?r=vtm&type=default" width="356" alt="AMAL BABU's Dev Card"/></a>
 ---
 
 ## 🔧 Skills
