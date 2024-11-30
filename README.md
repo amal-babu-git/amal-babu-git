@@ -4,7 +4,14 @@
 
 Welcome to my professional portfolio. I am a **Full-Stack Developer** with expertise in **Python**, **Django**, **React.js**, and **Machine Learning**. I specialize in building scalable, secure, and user-friendly web applications. With certifications in **Azure Fundamentals** and **Google Cloud**, I’m passionate about integrating modern technologies to create innovative solutions.
 
-[Download My Resume](./amal_babu_web.pdf)
+<div align="center">
+  
+[Download My Resume](./amal_babu_web.pdf)  
+
+![Profile views](https://komarev.com/ghpvc/?username=amal-babu-git&color=blue)
+
+</div>
+
 
 ## 📍 Contact Information
 
