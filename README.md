@@ -19,7 +19,13 @@
 
 ## 🚀 About Me
 
-I am a **Full-Stack Developer** with a strong foundation in **Python**, **Django**, and modern frontend technologies like **React.js**. I hold a **Master's in Computer Applications** and have hands-on experience building web applications and integrating machine learning solutions. I'm passionate about creating scalable, efficient, and secure applications. With certifications in **Azure Fundamentals** and **Google Cloud**, I’m eager to contribute to cutting-edge technologies and projects.
+## 🚀 About Me
+
+Hi! I’m **Amal Babu**, a **Full-Stack Developer** with a strong interest in both **backend** and **frontend** development. I enjoy working with **Python**, **Django**, and **React.js** to build web applications that are both functional and user-friendly. I hold a **Master's in Computer Applications** and am always looking for opportunities to learn and improve.
+
+I love solving problems through code and integrating **machine learning** to make applications smarter. With certifications in **Azure Fundamentals** and **Google Cloud**, I’m excited to work on projects that have a real-world impact and help make life a little easier for everyone.
+
+I’m a strong believer in teamwork, continuous learning, and using technology to build solutions that can help people.
 
 ---
 
@@ -52,7 +58,7 @@ I am a **Full-Stack Developer** with a strong foundation in **Python**, **Django
 ## 🎓 Education
 
 - **Master of Computer Applications (MCA)**  
-  **Srinivas Institute of Technology (VTU)** | **8.7 CGPA** | **2024**  
+  **Srinivas Institute of Technology (VTU)** | **8.9 CGPA** | **2024**  
 - **Bachelor of Computer Applications (BCA)**  
   **St. Philomena College** | **8.34 CGPA** | **2022**
 
