@@ -1,4 +1,8 @@
-# 👨‍💻 Amal Babu - Full-Stack Developer | Machine Learning Enthusiast | Python | React.js | Django
+# 👨‍💻 Amal Babu  
+### Full-Stack Developer  
+### Machine Learning Enthusiast  
+### Python | React.js | Django
+
 
 Welcome to my professional portfolio. I am a **Full-Stack Developer** with expertise in **Python**, **Django**, **React.js**, and **Machine Learning**. I specialize in building scalable, secure, and user-friendly web applications. With certifications in **Azure Fundamentals** and **Google Cloud**, I’m passionate about integrating modern technologies to create innovative solutions.
 
