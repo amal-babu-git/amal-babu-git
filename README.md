@@ -5,7 +5,6 @@
 Welcome to my professional portfolio. I am a **Full-Stack Developer** with expertise in **Python**, **Django**, **React.js**, and **Machine Learning**. I specialize in building scalable, secure, and user-friendly web applications. With certifications in **Azure Fundamentals** and **Google Cloud**, I’m passionate about integrating modern technologies to create innovative solutions.
 
 <div align="center">
-  <a href="https://github.com/amal-babu-git/amal-babu-git/blob/main/amal_babu_web.pdf" target="_blank">Download My Resume</a>
 
 [Download My Resume](https://github.com/amal-babu-git/amal-babu-git/blob/main/amal_babu_web.pdf)  
 <br>
