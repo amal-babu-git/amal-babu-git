@@ -108,7 +108,3 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 ### Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amal-babu-git)
-
-### Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=amal-babu-git)
