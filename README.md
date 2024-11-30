@@ -6,8 +6,8 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 
 <div align="center">
 
-[Download My Resume](https://github.com/amal-babu-git/amal-babu-git/blob/main/amal_babu_web.pdf)  
-<br>
+[Download My Resume](https://github.com/amal-babu-git/amal-babu-git/blob/main/amal_babu_web.pdf) 
+
 ![Profile views](https://komarev.com/ghpvc/?username=amal-babu-git&color=blue)
 
 </div>
