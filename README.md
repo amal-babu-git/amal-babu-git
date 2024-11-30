@@ -2,15 +2,24 @@
 
 ### Full-Stack Developer | Machine Learning Enthusiast | Python | React.js | Django | Cloud Certified
 
-📍 **Location:** Bangalore, India  
-📧 **Email:** [amalbabu1200@gmail.com](mailto:amalbabu1200@gmail.com)  
-📞 **Contact:** (+91) 9074631926  
+<div align="left">
+  📧 **Email:** [amalbabu1200@gmail.com](mailto:amalbabu1200@gmail.com)  
+  📞 **Contact:** (+91) 9074631926
+</div>
+
+<div align="right">
+  🌐 **GitHub:** [github.com/amal-babu-git](https://github.com/amal-babu-git)  
+  **LinkedIn:** [linkedin.com/in/amalbabudev/](https://www.linkedin.com/in/amalbabudev/)  
+  **LeetCode:** [leetcode.com/u/amal-babu-git/](https://leetcode.com/u/amal-babu-git/)  
+  **Medium:** [medium.com/@amalbabuk](https://medium.com/@amalbabuk)  
+  **Coursera:** [coursera.org/learner/amalbabu](https://www.coursera.org/learner/amalbabu)
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with a strong foundation in **Python**, **Django**, and modern frontend technologies like **React.js**. I hold a **Master's in Computer Applications (8.9 CGPA)** and specialize in building scalable, secure applications. With certifications in **Azure Fundamentals** and **Google Cloud**, I aim to contribute to innovative projects blending **full-stack development** and **machine learning**.
+I'm a passionate **Full-Stack Developer** with a strong foundation in **Python**, **Django**, and modern frontend technologies like **React.js**. I hold a **Master's in Computer Applications (8.7 CGPA)** and specialize in building scalable, secure applications. With certifications in **Azure Fundamentals** and **Google Cloud**, I aim to contribute to innovative projects blending **full-stack development** and **machine learning**.
 
 ---
 
@@ -60,7 +69,8 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Python**
 
 ### [SkimLit: Medical Abstract Classification](https://github.com/amal-babu-git)  
 - Developed an **NLP model** to classify medical abstract sentences into objectives, methods, and conclusions.  
-- Tools: TensorFlow, Scikit-learn, FastAPI, React.js, Docker.
+- Tools: TensorFlow, Scikit-learn, FastAPI, React.js, Docker.  
+- **Research Article:** [Published Research Paper](https://www.ijrar.org/papers/IJRAR1DUP049.pdf)
 
 ### [Food Donation System](https://github.com/amal-babu-git/food-donation-system)  
 - Web app connecting food donors with NGOs to reduce waste.  
