@@ -2,18 +2,13 @@
 
 ### Full-Stack Developer | Machine Learning Enthusiast | Python | React.js | Django | Cloud Certified
 
-<div align="left">
-  📧 **Email:** [amalbabu1200@gmail.com](mailto:amalbabu1200@gmail.com)  
-  📞 **Contact:** (+91) 9074631926
-</div>
-
-<div align="right">
-  🌐 **GitHub:** [github.com/amal-babu-git](https://github.com/amal-babu-git)  
-  **LinkedIn:** [linkedin.com/in/amalbabudev/](https://www.linkedin.com/in/amalbabudev/)  
-  **LeetCode:** [leetcode.com/u/amal-babu-git/](https://leetcode.com/u/amal-babu-git/)  
-  **Medium:** [medium.com/@amalbabuk](https://medium.com/@amalbabuk)  
-  **Coursera:** [coursera.org/learner/amalbabu](https://www.coursera.org/learner/amalbabu)
-</div>
+| **Contact Info**                                 | **Social Links**                                                                                                                                                         |
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📧 **Email:** [amalbabu1200@gmail.com](mailto:amalbabu1200@gmail.com)   | 🌐 **GitHub:** [github.com/amal-babu-git](https://github.com/amal-babu-git)                                                                                              |
+| 📞 **Contact:** (+91) 9074631926                 | **LinkedIn:** [linkedin.com/in/amalbabudev/](https://www.linkedin.com/in/amalbabudev/)                                                                                  |
+|                                                  | **LeetCode:** [leetcode.com/u/amal-babu-git/](https://leetcode.com/u/amal-babu-git/)                                                                                    |
+|                                                  | **Medium:** [medium.com/@amalbabuk](https://medium.com/@amalbabuk)                                                                                                      |
+|                                                  | **Coursera:** [coursera.org/learner/amalbabu](https://www.coursera.org/learner/amalbabu)                                                                                |
 
 ---
 
