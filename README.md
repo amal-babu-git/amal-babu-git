@@ -17,11 +17,7 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 
 ---
 
-## 🚀 About Me
 
-I am a passionate **Full-Stack Developer** with a strong foundation in **Python**, **Django**, and modern frontend technologies like **React.js**. I hold a **Master's in Computer Applications (8.9 CGPA)** and specialize in building **scalable** and **secure applications**. With certifications in **Azure Fundamentals** and **Google Cloud**, I aim to contribute to **innovative projects** blending **full-stack development** and **machine learning**.
-
----
 
 ## 🛠️ Skills
 
