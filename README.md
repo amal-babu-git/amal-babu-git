@@ -19,8 +19,6 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 Hi! I’m **Amal Babu**, a **Full-Stack Developer** with a strong interest in both **backend** and **frontend** development. I enjoy working with **Python**, **Django**, and **React.js** to build web applications that are both functional and user-friendly. I hold a **Master's in Computer Applications** and am always looking for opportunities to learn and improve.
 
 I love solving problems through code and integrating **machine learning** to make applications smarter. With certifications in **Azure Fundamentals** and **Google Cloud**, I’m excited to work on projects that have a real-world impact and help make life a little easier for everyone.
