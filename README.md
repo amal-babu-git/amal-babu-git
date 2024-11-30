@@ -4,14 +4,9 @@
 
 ---
 
-## 📍 Location
-
-- **Bangalore, India**
-
----
-
 ## 📍 Contact Information
 
+- **Location:** Bangalore, India
 - **Email:** [amalbabu1200@gmail.com](mailto:amalbabu1200@gmail.com)  
 - **Contact:** (+91) 9074631926  
 - **LinkedIn:** [linkedin.com/in/amalbabudev](https://www.linkedin.com/in/amalbabudev/)  
