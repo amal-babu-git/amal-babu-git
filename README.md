@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with a strong foundation in **Python**, **Django**, and modern frontend technologies like **React.js**. I hold a **Master's in Computer Applications (8.7 CGPA)** and specialize in building scalable, secure applications. With certifications in **Azure Fundamentals** and **Google Cloud**, I aim to contribute to innovative projects blending **full-stack development** and **machine learning**.
+I'm a passionate **Full-Stack Developer** with a strong foundation in **Python**, **Django**, and modern frontend technologies like **React.js**. I hold a **Master's in Computer Applications (8.9 CGPA)** and specialize in building scalable, secure applications. With certifications in **Azure Fundamentals** and **Google Cloud**, I aim to contribute to innovative projects blending **full-stack development** and **machine learning**.
 
 ---
 
