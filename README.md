@@ -50,9 +50,10 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 ## 🎓 Education
 
 - **Master of Computer Applications (MCA)**  
-  **Srinivas Institute of Technology (VTU)** | **8.9 CGPA** | **2024
+  *Srinivas Institute of Technology (VTU), 8.9 CGPA, 2024*
+  
 - **Bachelor of Computer Applications (BCA)**  
-  **St. Philomena College** | **8.34 CGPA** | **2022**
+  *St. Philomena College, 8.34 CGPA, 2022*
 
 ---
 
