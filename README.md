@@ -27,7 +27,7 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 - **Backend Development**: Django, Django REST Framework, Flask, FastAPI
 - **Frontend Development**: React.js, Redux.js, Tailwind CSS, JavaScript
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps & Tools**: Docker, Git, GitHub, CI/CD
+- **DevOps & Tools**: Docker, Git, GitHub
 - **Cloud**: Microsoft Azure, Google Cloud Platform
 - **Machine Learning**: TensorFlow, Scikit-learn, Pandas, NumPy, NLP
 
@@ -51,7 +51,7 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 
 - **Master of Computer Applications (MCA)**  
   *Srinivas Institute of Technology (VTU), 8.9 CGPA, 2024*
-  
+
 - **Bachelor of Computer Applications (BCA)**  
   *St. Philomena College, 8.34 CGPA, 2022*
 
