@@ -95,3 +95,20 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 - **Coursera**: <a href="https://www.coursera.org/learner/amalbabu" target="_blank">coursera.org/learner/amalbabu</a>
 
 ---
+## 🚀 GitHub Stats & Graphs
+
+### GitHub Stats
+
+![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-babu-git&show_icons=true&count_private=true&hide=prs)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-babu-git&langs_count=8&layout=compact)](https://github.com/amal-babu-git)
+
+### Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amal-babu-git)
+
+### Contribution Graph
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=amal-babu-git)
