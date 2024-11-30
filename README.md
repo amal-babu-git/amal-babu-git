@@ -4,10 +4,8 @@
 
 Welcome to my professional portfolio. I am a **Full-Stack Developer** with expertise in **Python**, **Django**, **React.js**, and **Machine Learning**. I specialize in building scalable, secure, and user-friendly web applications. With certifications in **Azure Fundamentals** and **Google Cloud**, I’m passionate about integrating modern technologies to create innovative solutions.
 
----
-<!-- <embed src="./amal_babu_web.pdf" width="6
-00" height="800" /> -->
 [Download My Resume](./amal_babu_web.pdf)
+
 ## 📍 Contact Information
 
 - **Location**: Bangalore, India
