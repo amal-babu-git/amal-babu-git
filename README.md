@@ -105,6 +105,6 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-babu-git&langs_count=8&layout=compact)](https://github.com/amal-babu-git)
 
-### Streak Stats
+<!-- ### Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amal-babu-git)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amal-babu-git) -->
