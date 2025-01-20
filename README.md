@@ -28,7 +28,7 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, JavaScript, SQL
+- **Programming Languages**: Python, JavaScript, SQL, C++, Java
 - **Backend Development**: Django, Django REST Framework, Flask, FastAPI, Redis, Celery
 - **Frontend Development**: HTML, CSS, JavaScript, React.js, Redux.js, Tailwind CSS
 - **Databases**: MySQL, PostgreSQL, MongoDB
