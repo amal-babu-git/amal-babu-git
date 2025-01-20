@@ -33,7 +33,7 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 - **Frontend Development**: HTML, CSS, JavaScript, React.js, Redux.js, Tailwind CSS
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps & Tools**: Docker, Git, GitHub
-- **Cloud**: Microsoft Azure, Google Cloud Platform
+- **Cloud**: Microsoft Azure, Amazon Web Services (AWS)
 - **Machine Learning**: TensorFlow, Scikit-learn, Pandas, NumPy, NLP
 
 
