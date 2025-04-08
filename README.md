@@ -74,6 +74,12 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 
 ## 🖥️ Projects
 
+### [FastAPI Admin CLI](https://github.com/amal-babu-git/fastapi-admin-cli)
+- Developed a **Django-inspired CLI tool** for FastAPI that streamlines application development with a modular architecture.
+- Built using **Python** and **Typer**, providing commands for project scaffolding, app generation, Docker container management, and database migrations.
+- **Features**: Automatic code generation, Docker integration, database migration utilities using Alembic.
+- **Published on PyPI**: [fastapi-admin-cli](https://pypi.org/project/fastapi-admin-cli/)
+
 ### [SkimLit: Medical Abstract Classification](https://github.com/amal-babu-git)  
 - Developed an **NLP model** to classify medical abstracts into **objectives**, **methods**, and **conclusions**.  
 - **Tools Used**: TensorFlow, Scikit-learn, React.js, Docker.  
