@@ -1,193 +1,570 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Amal Babu - Full-Stack Developer specializing in Python, Django, React.js, and Machine Learning. Discover my projects, skills, and professional profiles.">
-    <meta name="keywords" content="Amal Babu, Full-Stack Developer, Python, Django, React.js, Machine Learning, Portfolio, Web Development">
-    <meta name="author" content="Amal Babu">
-    <title>Amal Babu - Professional Portfolio</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        header {
-            text-align: center;
-            padding: 50px 20px;
-            background: linear-gradient(90deg, #0073e6, #005bb5);
-            color: white;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.8em;
-        }
-        header h2 {
-            margin: 10px 0 20px;
-            font-weight: 300;
-            font-size: 1.5em;
-        }
-        nav {
-            margin-top: 20px;
-        }
-        nav a {
-            color: white;
-            text-decoration: none;
-            margin: 0 10px;
-            font-weight: bold;
-            padding: 5px 10px;
-            border: 1px solid white;
-            border-radius: 5px;
-        }
-        nav a:hover {
-            background: white;
-            color: #0073e6;
-        }
-        section {
-            padding: 40px 20px;
-            max-width: 900px;
-            margin: auto;
-        }
-        section h2 {
-            color: #0073e6;
-            border-bottom: 2px solid #0073e6;
-            padding-bottom: 5px;
-            margin-bottom: 20px;
-            font-size: 1.8em;
-        }
-        .about-me, .profiles div {
-            background: #fff;
-            padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 10px;
-            margin-bottom: 20px;
-            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-        }
-        .skills, .certifications, .projects, .contact-info {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-        }
-        .card {
-            background: #fff;
-            padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 10px;
-            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-        }
-        .card h3 {
-            margin-top: 0;
-        }
-        .card a {
-            text-decoration: none;
-            color: #0073e6;
-        }
-        footer {
-            text-align: center;
-            background: #333;
-            color: white;
-            padding: 10px;
-            margin-top: 40px;
-        }
-        footer a {
-            color: #0073e6;
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Amal Babu</h1>
-        <h2>Full-Stack Developer | Machine Learning Enthusiast</h2>
-        <nav>
-            <a href="#about">About Me</a>
-            <a href="#skills">Skills</a>
-            <a href="#projects">Projects</a>
-            <a href="#contact">Contact</a>
-        </nav>
-    </header>
-    <main>
-        <section id="about">
-            <h2>👨‍💻 About Me</h2>
-            <div class="about-me">
-                Welcome to my <strong>professional portfolio</strong>. I am a <strong>Full-Stack Developer</strong> with expertise in <strong>Python</strong>, <strong>Django</strong>, <strong>React.js</strong>, and <strong>Machine Learning</strong>. I specialize in building scalable, secure, and user-friendly web applications. With certifications in <strong>Azure Fundamentals</strong> and <strong>Google Cloud</strong>, I’m passionate about integrating modern technologies to create innovative solutions.
-            </div>
-        </section>
-        <section id="profiles">
-            <h2>🌐 Profiles</h2>
-            <div class="profiles">
-                <div class="card">
-                    <strong>Blog:</strong> <a href="https://medium.com/@amalbabuk" target="_blank">medium.com/@amalbabuk</a>
-                </div>
-                <div class="card">
-                    <strong>LeetCode:</strong> <a href="https://leetcode.com/amalbabudev" target="_blank">leetcode.com/amalbabudev</a>
-                </div>
-                <div class="card">
-                    <strong>Coursera:</strong> <a href="https://www.coursera.org/user/amal-babu" target="_blank">Coursera Profile</a>
-                </div>
-            </div>
-        </section>
-        <section id="skills">
-            <h2>🛠️ Skills</h2>
-            <div class="skills">
-                <div class="card">
-                    <strong>Programming:</strong> Python, JavaScript, SQL<br>
-                    <strong>Backend:</strong> Django, Flask, FastAPI
-                </div>
-                <div class="card">
-                    <strong>Frontend:</strong> React.js, Redux.js, Tailwind CSS<br>
-                    <strong>Databases:</strong> MySQL, PostgreSQL, MongoDB
-                </div>
-                <div class="card">
-                    <strong>DevOps:</strong> Docker, Git, GitHub<br>
-                    <strong>Cloud:</strong> Microsoft Azure, Google Cloud
-                </div>
-                <div class="card">
-                    <strong>Machine Learning:</strong> TensorFlow, Scikit-learn, Pandas, NLP
-                </div>
-            </div>
-        </section>
-        <section id="projects">
-            <h2>🖥️ Projects</h2>
-            <div class="projects">
-                <div class="card">
-                    <strong>SkimLit:</strong> NLP-based medical abstract classifier<br>
-                    <a href="https://github.com/amal-babu-git">View Project</a>
-                </div>
-                <div class="card">
-                    <strong>Food Donation System:</strong> Connects donors with NGOs<br>
-                    <a href="https://github.com/amal-babu-git/food-donation-system">View Project</a>
-                </div>
-                <div class="card">
-                    <strong>OnShop:</strong> E-commerce platform<br>
-                    <a href="https://onshopweb.web.app/">View Project</a>
-                </div>
-                <div class="card">
-                    <strong>CGPA Calculator:</strong> Used by 2K+ students<br>
-                    <a href="https://cgpa-sgpa.web.app/">View Project</a>
-                </div>
-            </div>
-        </section>
-        <section id="contact">
-            <h2>📍 Contact Information</h2>
-            <div class="contact-info">
-                <div class="card">
-                    <strong>Email:</strong> <a href="mailto:amalbabu1200@gmail.com">amalbabu1200@gmail.com</a><br>
-                    <strong>Phone:</strong> (+91) 9074631926
-                </div>
-                <div class="card">
-                    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/amalbabudev">linkedin.com/in/amalbabudev</a><br>
-                    <strong>GitHub:</strong> <a href="https://github.com/amal-babu-git">github.com/amal-babu-git</a>
-                </div>
-            </div>
-        </section>
-    </main>
-    <footer>
-        © 2024 Amal Babu | <a href="https://github.com/amal-babu-git">GitHub</a>
-    </footer>
-</body>
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0"
+		/>
+		<title>Amal Babu | Full-Stack Developer</title>
+		<meta
+			name="description"
+			content="Amal Babu - Full-Stack Developer with expertise in Python, Django, React.js, and Machine Learning"
+		/>
+		<link
+			rel="preconnect"
+			href="https://fonts.googleapis.com"
+		/>
+		<link
+			rel="preconnect"
+			href="https://fonts.gstatic.com"
+			crossorigin
+		/>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+			rel="stylesheet"
+		/>
+		<style>
+			:root {
+				--primary-color: #2563eb;
+				--text-color: #1f2937;
+				--text-light: #4b5563;
+				--bg-color: #ffffff;
+				--bg-alt: #f9fafb;
+				--border-color: #e5e7eb;
+			}
+
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			body {
+				font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+					Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+				line-height: 1.6;
+				color: var(--text-color);
+				background-color: var(--bg-color);
+				max-width: 800px;
+				margin: 0 auto;
+				padding: 2rem 1rem;
+			}
+
+			h1,
+			h2,
+			h3,
+			h4 {
+				margin-bottom: 1rem;
+				font-weight: 600;
+				line-height: 1.25;
+			}
+
+			h1 {
+				font-size: 2rem;
+			}
+
+			h2 {
+				font-size: 1.5rem;
+				margin-top: 2rem;
+				padding-bottom: 0.5rem;
+				border-bottom: 1px solid var(--border-color);
+			}
+
+			h3 {
+				font-size: 1.25rem;
+				margin-top: 1.5rem;
+			}
+
+			p {
+				margin-bottom: 1rem;
+			}
+
+			a {
+				color: var(--primary-color);
+				text-decoration: none;
+			}
+
+			a:hover {
+				text-decoration: underline;
+			}
+
+			ul {
+				margin-bottom: 1.5rem;
+				padding-left: 1.5rem;
+			}
+
+			li {
+				margin-bottom: 0.5rem;
+			}
+
+			.header {
+				text-align: center;
+				margin-bottom: 2rem;
+			}
+
+			.subtitle {
+				color: var(--text-light);
+				font-weight: 500;
+			}
+
+			.intro {
+				margin-bottom: 2rem;
+			}
+
+			.resume-link {
+				display: inline-block;
+				background-color: var(--primary-color);
+				color: white;
+				padding: 0.5rem 1rem;
+				border-radius: 4px;
+				margin: 1rem 0;
+				font-weight: 500;
+			}
+
+			.resume-link:hover {
+				opacity: 0.9;
+				text-decoration: none;
+			}
+
+			.section {
+				margin-bottom: 2rem;
+			}
+
+			.project {
+				margin-bottom: 1.5rem;
+			}
+
+			.project-title {
+				font-weight: 600;
+			}
+
+			.tech-stack {
+				margin: 2rem 0;
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.75rem;
+				justify-content: center;
+			}
+
+			.tech-item {
+				background-color: var(--bg-alt);
+				padding: 0.25rem 0.75rem;
+				border-radius: 1rem;
+				font-size: 0.875rem;
+				border: 1px solid var(--border-color);
+			}
+
+			footer {
+				margin-top: 3rem;
+				text-align: center;
+				font-size: 0.875rem;
+				color: var(--text-light);
+				padding-top: 1rem;
+				border-top: 1px solid var(--border-color);
+			}
+
+			.social-links {
+				display: flex;
+				gap: 1rem;
+				justify-content: center;
+				margin: 1rem 0;
+				flex-wrap: wrap;
+			}
+
+			.work-experience,
+			.education,
+			.certifications {
+				margin-bottom: 1rem;
+			}
+
+			.work-title,
+			.edu-degree {
+				font-weight: 600;
+				margin-bottom: 0.25rem;
+			}
+
+			.work-period,
+			.edu-period {
+				font-size: 0.875rem;
+				color: var(--text-light);
+				margin-bottom: 0.5rem;
+			}
+
+			@media (max-width: 640px) {
+				h1 {
+					font-size: 1.75rem;
+				}
+
+				h2 {
+					font-size: 1.25rem;
+				}
+
+				h3 {
+					font-size: 1.125rem;
+				}
+
+				.tech-stack {
+					gap: 0.5rem;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<header class="header">
+			<h1>Amal Babu</h1>
+			<p class="subtitle">Full-Stack Developer | Machine Learning Enthusiast</p>
+		</header>
+
+		<section class="intro">
+			<p>
+				I'm a <strong>Full-Stack Developer</strong> with expertise in
+				<strong>Python</strong>, <strong>Django</strong>,
+				<strong>React.js</strong>, and <strong>Machine Learning</strong>. I
+				specialize in building scalable, secure, and user-friendly web
+				applications. With certifications in
+				<strong>Azure Fundamentals</strong> and <strong>Google Cloud</strong>,
+				I'm passionate about integrating modern technologies to create
+				innovative solutions.
+			</p>
+
+			<a
+				href="https://drive.google.com/file/d/1KTYiS7ezcqsg1Y6eNOUKm4QPa_3tZWze/view?usp=sharing"
+				class="resume-link"
+				target="_blank"
+				>Download My Resume</a
+			>
+		</section>
+
+		<section
+			class="section"
+			id="skills"
+		>
+			<h2>🛠️ Skills</h2>
+			<div>
+				<h3>Programming Languages</h3>
+				<p>Python, JavaScript, SQL, C++, Java</p>
+
+				<h3>Backend Development</h3>
+				<p>Django, Django REST Framework, Flask, FastAPI, Redis, Celery</p>
+
+				<h3>Frontend Development</h3>
+				<p>HTML, CSS, JavaScript, React.js, Redux.js, Tailwind CSS</p>
+
+				<h3>Databases</h3>
+				<p>MySQL, PostgreSQL, MongoDB</p>
+
+				<h3>DevOps & Tools</h3>
+				<p>Docker, Git, GitHub</p>
+
+				<h3>Cloud</h3>
+				<p>Microsoft Azure, Amazon Web Services (AWS)</p>
+
+				<h3>Machine Learning</h3>
+				<p>TensorFlow, Scikit-learn, Pandas, NumPy, NLP</p>
+			</div>
+		</section>
+
+		<section
+			class="section"
+			id="experience"
+		>
+			<h2>💼 Work Experience</h2>
+
+			<div class="work-experience">
+				<h3 class="work-title">Full-Stack Developer Intern | Easecase AI</h3>
+				<p class="work-period">November 2023 - February 2024</p>
+				<ul>
+					<li>
+						Developed a <strong>web-based document analysis tool</strong> for
+						lawyers using <strong>Flask</strong>, <strong>React</strong>, and
+						<strong>MongoDB</strong>.
+					</li>
+					<li>
+						Integrated AI-powered features for document summarization using
+						<strong>GPT-4</strong> API.
+					</li>
+				</ul>
+			</div>
+
+			<div class="work-experience">
+				<h3 class="work-title">Cybersecurity Intern | Samagra Technologies</h3>
+				<p class="work-period">December 2023 - January 2024</p>
+				<ul>
+					<li>
+						Worked on <strong>network security</strong> tasks, including risk
+						assessments and vulnerability analysis.
+					</li>
+					<li>
+						Gained hands-on experience in securing web applications and
+						implementing firewalls and VPNs.
+					</li>
+				</ul>
+			</div>
+		</section>
+
+		<section
+			class="section"
+			id="education"
+		>
+			<h2>🎓 Education</h2>
+
+			<div class="education">
+				<h3 class="edu-degree">Master of Computer Applications (MCA)</h3>
+				<p class="edu-period">
+					Srinivas Institute of Technology (VTU), 8.9 CGPA, 2024
+				</p>
+			</div>
+
+			<div class="education">
+				<h3 class="edu-degree">Bachelor of Computer Applications (BCA)</h3>
+				<p class="edu-period">St. Philomena College, 8.34 CGPA, 2022</p>
+			</div>
+		</section>
+
+		<section
+			class="section"
+			id="certifications"
+		>
+			<h2>🌟 Certifications</h2>
+			<ul>
+				<li>
+					<a
+						href="https://www.credly.com/badges/e6115f54-1354-4f71-a0a7-07615762b6fd/linked_in_profile"
+						target="_blank"
+						>Microsoft Certified: Azure Fundamentals (AZ-900)</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.coursera.org/account/accomplishments/specialization/HYGYCXYPBVND?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n"
+						target="_blank"
+						>Machine Learning Specialization (DeepLearning.AI, Coursera)</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs90/Course/NPTEL23CS90S84140058020285070.pdf"
+						target="_blank"
+						>Google Cloud Computing Foundations (NPTEL)</a
+					>
+				</li>
+				<li>
+					<a
+						href="https://www.coursera.org/account/accomplishments/specialization/23Q6S6A6VZRL"
+						target="_blank"
+						>Mathematics for Machine Learning (Imperial College London)</a
+					>
+				</li>
+			</ul>
+		</section>
+
+		<section
+			class="section"
+			id="projects"
+		>
+			<h2>🖥️ Projects</h2>
+
+			<div class="project">
+				<h3 class="project-title">
+					<a
+						href="https://github.com/amal-babu-git/fastapi-admin-cli"
+						target="_blank"
+						>FastAPI Admin CLI</a
+					>
+				</h3>
+				<ul>
+					<li>
+						Developed a <strong>Django-inspired CLI tool</strong> for FastAPI
+						that streamlines application development with a modular
+						architecture.
+					</li>
+					<li>
+						Built using <strong>Python</strong> and <strong>Typer</strong>,
+						providing commands for project scaffolding, app generation, Docker
+						container management, and database migrations.
+					</li>
+					<li>
+						<strong>Features:</strong> Automatic code generation, Docker
+						integration, database migration utilities using Alembic.
+					</li>
+					<li>
+						<strong>Published on PyPI:</strong>
+						<a
+							href="https://pypi.org/project/fastapi-admin-cli/"
+							target="_blank"
+							>fastapi-admin-cli</a
+						>
+					</li>
+				</ul>
+			</div>
+
+			<div class="project">
+				<h3 class="project-title">
+					<a
+						href="https://github.com/amal-babu-git"
+						target="_blank"
+						>SkimLit: Medical Abstract Classification</a
+					>
+				</h3>
+				<ul>
+					<li>
+						Developed an <strong>NLP model</strong> to classify medical
+						abstracts into <strong>objectives</strong>,
+						<strong>methods</strong>, and <strong>conclusions</strong>.
+					</li>
+					<li>
+						<strong>Tools Used:</strong> TensorFlow, Scikit-learn, React.js,
+						Docker.
+					</li>
+					<li>
+						<strong>Research Article:</strong>
+						<a
+							href="https://www.ijrar.org/papers/IJRAR1DUP049.pdf"
+							target="_blank"
+							>Published Research Paper</a
+						>
+					</li>
+				</ul>
+			</div>
+
+			<div class="project">
+				<h3 class="project-title">
+					<a
+						href="https://github.com/amal-babu-git/food-donation-system"
+						target="_blank"
+						>Food Donation System</a
+					>
+				</h3>
+				<ul>
+					<li>
+						A web application that helps connect food donors with NGOs to reduce
+						food waste.
+					</li>
+					<li>
+						<strong>Backend:</strong> Django, Django REST Framework |
+						<strong>Frontend:</strong> React.js, Redux.js, Tailwind CSS
+					</li>
+				</ul>
+			</div>
+
+			<div class="project">
+				<h3 class="project-title">
+					<a
+						href="https://onshopweb.web.app/"
+						target="_blank"
+						>OnShop: E-commerce Web App</a
+					>
+				</h3>
+				<ul>
+					<li>
+						A fully functional <strong>e-commerce platform</strong> for a
+						hypermarket with an integrated <strong>payment gateway</strong>.
+					</li>
+					<li>
+						<strong>Backend:</strong> Django |
+						<strong>Frontend:</strong> React.js |
+						<strong>Deployed on AWS EC2</strong> with Docker and HTTPS via
+						Certbot.
+					</li>
+				</ul>
+			</div>
+
+			<div class="project">
+				<h3 class="project-title">
+					<a
+						href="https://cgpa-sgpa.web.app/"
+						target="_blank"
+						>CGPA & SGPA Calculator</a
+					>
+				</h3>
+				<ul>
+					<li>
+						A web app helping VTU students calculate their
+						<strong>SGPA</strong> and <strong>CGPA</strong>.
+					</li>
+					<li>
+						<strong>SEO-Optimized</strong> and used by over
+						<strong>2K students</strong>.
+					</li>
+				</ul>
+			</div>
+		</section>
+
+		<section
+			class="section"
+			id="tech-stack"
+		>
+			<h2>🔧 Tech Stack</h2>
+			<div class="tech-stack">
+				<span class="tech-item">Python</span>
+				<span class="tech-item">JavaScript</span>
+				<span class="tech-item">Django</span>
+				<span class="tech-item">Django REST</span>
+				<span class="tech-item">React</span>
+				<span class="tech-item">Redux</span>
+				<span class="tech-item">Flask</span>
+				<span class="tech-item">FastAPI</span>
+				<span class="tech-item">MongoDB</span>
+				<span class="tech-item">MySQL</span>
+				<span class="tech-item">PostgreSQL</span>
+				<span class="tech-item">Docker</span>
+				<span class="tech-item">Azure</span>
+				<span class="tech-item">AWS</span>
+				<span class="tech-item">TensorFlow</span>
+				<span class="tech-item">Redis</span>
+				<span class="tech-item">Celery</span>
+				<span class="tech-item">NumPy</span>
+				<span class="tech-item">Pandas</span>
+				<span class="tech-item">Scikit-learn</span>
+			</div>
+		</section>
+
+		<section
+			class="section"
+			id="contact"
+		>
+			<h2>📍 Contact Information</h2>
+			<ul>
+				<li><strong>Location:</strong> Bangalore, India</li>
+				<li>
+					<strong>Email:</strong>
+					<a href="mailto:amalbabu1200@gmail.com">amalbabu1200@gmail.com</a>
+				</li>
+				<li><strong>Contact:</strong> (+91) 9074631926</li>
+			</ul>
+
+			<div class="social-links">
+				<a
+					href="https://www.linkedin.com/in/amalbabudev"
+					target="_blank"
+					>LinkedIn</a
+				>
+				<a
+					href="https://github.com/amal-babu-git"
+					target="_blank"
+					>GitHub</a
+				>
+				<a
+					href="https://leetcode.com/u/amal-babu-git"
+					target="_blank"
+					>LeetCode</a
+				>
+				<a
+					href="https://medium.com/@amalbabuk"
+					target="_blank"
+					>Medium</a
+				>
+				<a
+					href="https://www.coursera.org/learner/amalbabu"
+					target="_blank"
+					>Coursera</a
+				>
+			</div>
+		</section>
+
+		<footer>
+			<p>© 2025 Amal Babu. All rights reserved.</p>
+		</footer>
+	</body>
 </html>
