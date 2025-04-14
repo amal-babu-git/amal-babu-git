@@ -19,32 +19,30 @@
 - **Email**: [developer.amalbabu@gmail.com](mailto:developer.amalbabu.com)
 - **Contact**: (+91) 9074631926
 - **LinkedIn**: <a href="https://www.linkedin.com/in/amalbabudev" target="_blank">linkedin.com/in/amalbabudev</a>
----
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, SQL, C++, Java
-- **Backend Development**: Django, Django REST Framework, Flask, FastAPI, Redis, Celery
-- **Frontend Development**: HTML, CSS, JavaScript, React.js, Redux.js, Tailwind CSS
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps & Tools**: Docker, Git, GitHub
-- **Cloud**: Microsoft Azure, Amazon Web Services (AWS)
-- **Machine Learning**: TensorFlow, Scikit-learn, Pandas, NumPy, NLP
+- Programming Languages: *Python, JavaScript, SQL, C++, Java*
+- Backend Development: *Django*, *Django REST Framework*, *Flask*, *FastAPI*, *Redis*, *Celery*
+- Frontend Development: *HTML*, *CSS*, *JavaScript*, *React.js*, *Redux.js*, *Tailwind CSS*
+- Databases: *MySQL*, *PostgreSQL*, *MongoDB*
+- DevOps & Tools: *Docker*, *Git*, *GitHub*
+- Cloud: *Microsoft Azure*, *Amazon Web Services (AWS)*
+- Machine Learning: *TensorFlow*, *Scikit-learn*, *Pandas*, *NumPy*, *NLP*
+
 
 
 ---
 
 ## Work Experience
 
-### Full-Stack Developer Intern | Easecase AI  
-**November 2023 - February 2024**  
-- Developed a **web-based document analysis tool** for lawyers using **Flask**, **React**, and **MongoDB**.  
-- Integrated AI-powered features for document summarization using **GPT-4** API.
+### Full-Stack Developer Intern | Easecase AI | Nov 2023 - Jun 2024
+- Developed a web-based document analysis tool for lawyers using *Flask*, *React*, and *MongoDB*
+- Integrated AI-powered document summarization features using *GPT-4* API
 
-### Cybersecurity Intern | Samagra Technologies  
-**December 2023 - January 2024**  
-- Worked on **network security** tasks, including risk assessments and vulnerability analysis.  
-- Gained hands-on experience in securing web applications and implementing firewalls and VPNs.
+### Cybersecurity Intern | Samagra Technologies | Dec 2023 - Jan 2024
+- Performed *network security* tasks including risk assessments and vulnerability analysis
+- Gained hands-on experience in web application security, firewall implementation, and VPN configuration
 
 ---
 
