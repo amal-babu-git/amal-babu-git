@@ -1,4 +1,4 @@
-# 👨‍💻 Amal Babu  
+# Amal Babu  
 ### Full-Stack Developer | Machine Learning Enthusiast 
 >
 > I'm a developer who loves building cool stuff with technology. I enjoy diving into new tools and frameworks that help me create better solutions. What really gets me excited is seeing how tech like machine learning and AI can solve everyday problems in clever ways. I'm always tinkering with code, testing new approaches, and learning from both successes and failures. The tech world moves fast, and that's exactly why I love it - there's always something new to discover and master. When I'm not coding, I'm exploring tech communities, sharing ideas, and looking for inspiration that might spark my next project. For me, development isn't just work - it's a passion that keeps me curious and creative every day.
@@ -13,7 +13,7 @@
 </div>
 
 
-## 📍 Contact Information
+## Contact Information
 
 - **Location**: Bangalore, India
 - **Email**: [developer.amalbabu@gmail.com](mailto:developer.amalbabu.com)
@@ -21,7 +21,7 @@
 - **LinkedIn**: <a href="https://www.linkedin.com/in/amalbabudev" target="_blank">linkedin.com/in/amalbabudev</a>
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Programming Languages**: Python, JavaScript, SQL, C++, Java
 - **Backend Development**: Django, Django REST Framework, Flask, FastAPI, Redis, Celery
@@ -34,7 +34,7 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### Full-Stack Developer Intern | Easecase AI  
 **November 2023 - February 2024**  
@@ -48,7 +48,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Master of Computer Applications (MCA)**  
   *Srinivas Institute of Technology (VTU), 8.9 CGPA, 2024*
@@ -58,7 +58,7 @@
 
 ---
 
-## 🌟 Certifications
+## Certifications
 
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/e6115f54-1354-4f71-a0a7-07615762b6fd/linked_in_profile)
 - [Machine Learning Specialization (DeepLearning.AI, Coursera)](https://www.coursera.org/account/accomplishments/specialization/HYGYCXYPBVND?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
@@ -67,7 +67,7 @@
 
 ---
 
-## 🖥️ Projects
+## Projects
 
 ### [FastAPI Admin CLI](https://github.com/amal-babu-git/fastapi-admin-cli)
 - Developed a **Django-inspired CLI tool** for FastAPI that streamlines application development with a modular architecture.
@@ -94,7 +94,7 @@
 
 ---
 
-## 🌐 Social Links
+## Social Links
 
 - **GitHub**: <a href="https://github.com/amal-babu-git" target="_blank">github.com/amal-babu-git</a>  
 - **LinkedIn**: <a href="https://www.linkedin.com/in/amalbabudev" target="_blank">linkedin.com/in/amalbabudev</a>  
