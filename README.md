@@ -16,14 +16,9 @@ Welcome to my professional portfolio. I am a **Full-Stack Developer** with exper
 ## 📍 Contact Information
 
 - **Location**: Bangalore, India
-- **Email**: [amalbabu1200@gmail.com](mailto:amalbabu1200@gmail.com)
+- **Email**: [developer.amalbabu@gmail.com](mailto:developer.amalbabu.com)
 - **Contact**: (+91) 9074631926
 - **LinkedIn**: <a href="https://www.linkedin.com/in/amalbabudev" target="_blank">linkedin.com/in/amalbabudev</a>
-- **GitHub**: <a href="https://github.com/amal-babu-git" target="_blank">github.com/amal-babu-git</a>
-- **LeetCode**: <a href="https://leetcode.com/u/amal-babu-git" target="_blank">leetcode.com/u/amal-babu-git</a>
-- **Medium**: <a href="https://medium.com/@amalbabuk" target="_blank">medium.com/@amalbabuk</a>
-- **Coursera**: <a href="https://www.coursera.org/learner/amalbabu" target="_blank">coursera.org/learner/amalbabu</a>
-
 ---
 
 ## 🛠️ Skills
