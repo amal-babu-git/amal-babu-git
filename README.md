@@ -1,4 +1,4 @@
-# Amal Babu  
+# Amal Babu
 ### Full-Stack Developer | Machine Learning Enthusiast 
 >
 > I'm a developer who loves building cool stuff with technology. I enjoy diving into new tools and frameworks that help me create better solutions. What really gets me excited is seeing how tech like machine learning and AI can solve everyday problems in clever ways. I'm always tinkering with code, testing new approaches, and learning from both successes and failures. The tech world moves fast, and that's exactly why I love it - there's always something new to discover and master. When I'm not coding, I'm exploring tech communities, sharing ideas, and looking for inspiration that might spark my next project. For me, development isn't just work - it's a passion that keeps me curious and creative every day.
@@ -8,6 +8,10 @@
 
 [Download My Resume](https://drive.google.com/file/d/1KTYiS7ezcqsg1Y6eNOUKm4QPa_3tZWze/view?usp=sharing) 
 
+<a href="https://amal-babu-git.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge" alt="Portfolio"/>
+</a>
+
 ![Profile views](https://komarev.com/ghpvc/?username=amal-babu-git&color=blue)
 
 </div>
@@ -16,6 +20,7 @@
 ## Contact Information
 
 - **Location**: Bangalore, India
+- **Portfolio**: <a href="https://amal-babu-git.github.io/" target="_blank"><b>📂 My Portfolio Website</b></a>
 - **Email**: [developer.amalbabu@gmail.com](mailto:developer.amalbabu.com)
 - **Contact**: (+91) 9074631926
 - **LinkedIn**: <a href="https://www.linkedin.com/in/amalbabudev" target="_blank">linkedin.com/in/amalbabudev</a>
