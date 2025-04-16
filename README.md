@@ -8,7 +8,7 @@
 
 [Download My Resume](https://drive.google.com/file/d/1KTYiS7ezcqsg1Y6eNOUKm4QPa_3tZWze/view?usp=sharing) 
 
-<a href="https://amal-babu-git.github.io/" target="_blank">
+<a href="https://amal-babu-git.github.io/about" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge" alt="Portfolio"/>
 </a>
 
@@ -20,7 +20,7 @@
 ## Contact Information
 
 - **Location**: Bangalore, India
-- **Portfolio**: <a href="https://amal-babu-git.github.io/" target="_blank"><b>📂 My Portfolio Website</b></a>
+- **Portfolio**: <a href="https://amal-babu-git.github.io/about" target="_blank"><b>📂 My Portfolio Website</b></a>
 - **Email**: [developer.amalbabu@gmail.com](mailto:developer.amalbabu.com)
 - **Contact**: (+91) 9074631926
 - **LinkedIn**: <a href="https://www.linkedin.com/in/amalbabudev" target="_blank">linkedin.com/in/amalbabudev</a>
