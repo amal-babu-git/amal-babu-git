@@ -19,7 +19,7 @@
 
 ## Contact Information
 
-- **Location**: Bangalore, India
+- **Location**: Kochi, India
 - **Portfolio**: <a href="https://amal-babu-git.github.io/about" target="_blank"><b>📂 My Portfolio Website</b></a>
 - **Email**: [developer.amalbabu@gmail.com](mailto:developer.amalbabu.com)
 - **Contact**: (+91) 9074631926
