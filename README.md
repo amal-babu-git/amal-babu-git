@@ -31,13 +31,12 @@ I'm passionate about solving real-world business problems using software technol
 
 <div align="center">
 
-### 📈 Contribution Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-babu-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-babu-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-babu-git&layout=compact&theme=radical&include_all_commits=true&count_private=true&langs_count=8)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amal-babu-git&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&count_private=true)
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amal-babu-git&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=amal-babu-git&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amal-babu-git&theme=tokyo-night&hide_border=true)
 
 </div>
