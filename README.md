@@ -24,3 +24,20 @@ I'm passionate about solving real-world business problems using software technol
 - Vector & Embeddings: OpenAI Embeddings • Sentence Transformers 
 - AI Development: RAG Systems • Prompt Engineering
 **Cloud & DevOps:** AWS • Azure • Docker • Git
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### 📈 Contribution Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-babu-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-babu-git&layout=compact&theme=radical&include_all_commits=true&count_private=true&langs_count=8)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amal-babu-git&theme=radical)
+
+</div>
