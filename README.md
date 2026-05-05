@@ -18,7 +18,7 @@ I care deeply about **software craft** — clean architecture, separation of con
 
 ---
 
-## 🧠 What I Do
+##  What I Do
 
 | Area | Details |
 |---|---|
@@ -41,7 +41,7 @@ I care deeply about **software craft** — clean architecture, separation of con
 
 ---
 
-## 🚀 Notable Projects & Work
+## Notable Projects & Work
 
 - **[Engineering Standards @ Hybrid Interactive](https://engineering.hybridinteractive.in/)** — Authored the company's engineering documentation hub: architecture patterns, tech stack decisions, frontend/backend standards, project structure guides, and AI-assisted coding workflows.
 - **[FastAPI Backend Template](https://github.com/hybridinteract/fastapi-template)** — Production-ready FastAPI template with async SQLAlchemy, JWT + RBAC, Celery, and Docker. Used as the base for multiple ERP/CRM backends.
@@ -50,7 +50,7 @@ I care deeply about **software craft** — clean architecture, separation of con
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
