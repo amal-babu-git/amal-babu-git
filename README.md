@@ -49,13 +49,11 @@ I care deeply about **software craft** — clean architecture, separation of con
 - **[SkimLit: Medical NLP](https://github.com/amal-babu-git)** — NLP model classifying medical abstracts. [Published research paper.](https://www.ijrar.org/papers/IJRAR1DUP049.pdf)
 
 ---
-
 ## GitHub Statistics
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-babu-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amal-babu-git&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-babu-git&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amal-babu-git&theme=tokyonight&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amal-babu-git&theme=tokyo-night&hide_border=true)
 
